@@ -1,6 +1,15 @@
 ---
 label: 1st-template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 pages:
 - _posts/hi-forestry.md
