@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: title
+pages:
+- _posts/clean-template.md
