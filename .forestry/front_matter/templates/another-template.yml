@@ -19,4 +19,4 @@ fields:
   default: []
   label: tags
 pages:
-- _posts/use-existing-frontmatter-template.md
+- _posts/2020-01-05-use-existing-frontmatter-template.md
