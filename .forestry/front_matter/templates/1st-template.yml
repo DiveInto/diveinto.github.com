@@ -20,5 +20,10 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: img
 pages:
 - _posts/2020-01-04-hi-forestry.md
