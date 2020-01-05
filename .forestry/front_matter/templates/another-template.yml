@@ -6,9 +6,6 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: title
-  label: title
-- type: text
   name: description
   label: description
 - type: text
@@ -18,5 +15,14 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
 pages:
 - _posts/2020-01-05-use-existing-frontmatter-template.md
