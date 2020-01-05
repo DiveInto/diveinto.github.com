@@ -11,5 +11,3 @@ fields:
     schema:
       format: markdown
   label: title
-pages:
-- _posts/2020-01-05-clean-template.md
