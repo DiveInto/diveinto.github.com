@@ -12,4 +12,4 @@ fields:
       format: markdown
   label: title
 pages:
-- _posts/clean-template.md
+- _posts/2020-01-05-clean-template.md
