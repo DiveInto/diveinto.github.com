@@ -24,5 +24,14 @@ fields:
     schema:
       format: markdown
   label: title
+- name: created_at
+  type: datetime
+  label: created_at
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _posts/2020-01-05-use-existing-frontmatter-template.md
