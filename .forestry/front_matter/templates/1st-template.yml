@@ -11,5 +11,14 @@ fields:
     schema:
       format: markdown
   label: title
+- name: created
+  type: datetime
+  label: created
+  description: date this article is created at
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _posts/2020-01-04-hi-forestry.md
