@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: use existing FrontMatter template
 description: this is desc
 category: test
