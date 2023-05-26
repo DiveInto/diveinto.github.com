@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hello World from Forestry.io
 created: 2020-01-03 16:00:00 +0000
 img: ''
